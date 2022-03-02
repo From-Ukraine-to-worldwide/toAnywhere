@@ -1,4 +1,4 @@
-# From Ukraine to ....
+
 
 # Discord Server:
 [From Ukraine to Portugal](https://discord.gg/8KDAj7Nm)
