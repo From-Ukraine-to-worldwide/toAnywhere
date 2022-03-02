@@ -13,7 +13,7 @@
 ## 1. Git Repository:
 {country} {[From Ukraine to Country](toCountry)}: @contributorA, @contributorB, @contributor(..)
 
-🇵🇹  [From Ukraine to Portugal](toEurope/toPortugal) :  @brunommpreto, @xyz, @...
+🇵🇹  [From Ukraine to Portugal](toEurope/toPortugal) :  [@brunommpreto](@brunommpreto) , @xyz, @...
 
 ## 2. Discord Server
 
