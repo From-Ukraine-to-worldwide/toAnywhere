@@ -5,7 +5,7 @@
 
 # Currently Active
 
-🇵🇹  [From Ukraine to Portugal](toPortugal)
+🇵🇹  [From Ukraine to Portugal](toEurope/toPortugal)
 
 
 # Under Construction
@@ -13,7 +13,7 @@
 ## 1. Git Repository:
 {country} {[From Ukraine to Country](toCountry)}: @contributorA, @contributorB, @contributor(..)
 
-🇵🇹  [From Ukraine to Portugal](toPortugal) :  @brunommpreto, @xyz, @...
+🇵🇹  [From Ukraine to Portugal](toEurope/toPortugal) :  @brunommpreto, @xyz, @...
 
 ## 2. Discord Server
 
